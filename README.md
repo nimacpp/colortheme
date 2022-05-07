@@ -6,7 +6,7 @@ Beauty in coding
 
 # usage 
 ```
-require 'colorama'
+require 'colortheme'
 puts "hello world".red 
 ```
 
