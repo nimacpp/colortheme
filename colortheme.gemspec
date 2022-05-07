@@ -3,7 +3,7 @@
 Gem::Specification.new do |s| 
 ### REQUIRED ###
   s.name        = 'colortheme'
-  s.version     = '0.0.5'
+  s.version     = '1.5.0'
   s.summary     = "color lib"
   s.authors     = ["NimaCpp"]
   s.files       = ["lib/colortheme.rb"] 
